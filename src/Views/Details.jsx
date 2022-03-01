@@ -15,7 +15,7 @@ const Details = () => {
                             <div>
                                 <h2 style={{ fontWeight: 'normal' }}>lorem ipsum </h2>
                                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus ea corporis fugit.</p>
-                                <a href="https://github.com/jonathanmitchell1234"><span className="button button-hero">Find out</span></a>
+                                <a href="https://github.com/jonathanmitchell1234"><span className="button button-hero">Tell Me More!</span></a>
                             </div>
                         </Col>
                     </Row>
@@ -27,7 +27,7 @@ const Details = () => {
                             <div>
                                 <h2 style={{ fontWeight: 'normal' }}>lorem ipsum</h2>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci ducimus corporis beatae.</p>
-                                <a href="https://github.com/jonathanmitchell1234"><span className="button button-hero">Discover this one</span></a>
+                                <a href="https://github.com/jonathanmitchell1234"><span className="button button-hero">Tell Me More!</span></a>
                             </div>
                         </Col>
 
@@ -47,7 +47,7 @@ const Details = () => {
                             <div>
                                 <h2 style={{ fontWeight: 'normal' }}>lorem ipsum</h2>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi voluptatum dignissimos accusamus!</p>
-                                <a href="https://github.com/jonathanmitchell1234"><span className="button button-hero">Tell me about</span></a>
+                                <a href="https://github.com/jonathanmitchell1234"><span className="button button-hero">Tell Me More!</span></a>
                             </div>
                         </Col>
                     </Row>
