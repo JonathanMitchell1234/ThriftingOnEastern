@@ -68,7 +68,7 @@ const Hero = () => {
                                     <div className="menu-item"><a href="#details" onClick={() => setLateralMenu(false)}>Details</a></div>
                                 </div>
                                 <div className="menu-container" style={{ marginTop: 30 }}>
-                                    <div className="menu-title">Get in touch</div>
+                                    <div className="menu-title">Get in Touch</div>
                                     <div><a href="mailto:jonathanmitchell@brightoncenter.com">jonathanmitchell@brightoncenter.com</a></div>
                                 </div>
                             </div>
